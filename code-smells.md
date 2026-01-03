@@ -1,6 +1,6 @@
-Source: https://blog.codinghorror.com/code-smells/
+Source: https://blog.codinghorror.com/code-smells/, Martin Fowler: Refactoring
 
-# Code Smells Within Classes
+## Code Smells Within Classes
 
 > ### Comments
 > There’s a fine line between comments that illuminate and comments that obscure. Are the comments necessary? Do they explain “why” and not “what”? Can you refactor the code so the comments aren’t required? And remember, you’re writing comments for people, not machines.
@@ -44,7 +44,7 @@ Source: https://blog.codinghorror.com/code-smells/
 > ### Temporary Field
 > Watch out for objects that contain a lot of optional or unnecessary fields. If you’re passing an object as a parameter to a method, make sure that you’re using all of it and not cherry-picking single fields.
 
-# Code Smells Between Classes
+## Code Smells Between Classes
 
 > ### Alternative Classes with Different Interfaces 
 > If two classes are similar on the inside, but different on the outside, perhaps they can be modified to share a common interface.
