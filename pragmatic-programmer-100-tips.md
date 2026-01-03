@@ -1,3 +1,5 @@
+# David Thomas, Andrew Hunt: The Pragmatic Programmer, 20th Anniversary Edition
+
 > ### Care About Your Craft
 > Why spend your life developing software unless you care about doing it well?
 
